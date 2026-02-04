@@ -1361,3 +1361,7 @@ section {
 .school-name p {
   margin: 0;
   font-siz
+.school-header {
+  margin-top: 80px;
+}
+
