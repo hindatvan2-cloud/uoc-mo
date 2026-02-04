@@ -1361,9 +1361,9 @@ section {
 .school-name p {
   margin: 0;
   font-siz
-.school-header {
- body {
-  padding-top: 110px;
+body {
+  padding-top: 160px !important;
 }
+
 
 
