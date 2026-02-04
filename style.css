@@ -1362,6 +1362,8 @@ section {
   margin: 0;
   font-siz
 .school-header {
-  margin-top: 80px;
+ body {
+  padding-top: 110px;
 }
+
 
