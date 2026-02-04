@@ -1360,10 +1360,13 @@ section {
 
 .school-name p {
   margin: 0;
-  font-siz
-body {
-  padding-top: 160px !important;
+  font-size: 14px;
 }
+body {
+  padding-top: 180px !important;
+}
+
+
 
 
 
