@@ -1330,44 +1330,4 @@ section {
         padding: 0;
         font-size: 1.1rem;
     }
-
 }
-.school-header {
-  background: white;
-  padding: 15px 40px;
-  box-shadow: 0 3px 10px rgba(0,0,0,0.12);
-  border-bottom: 4px solid #1a4fa3;
-}
-
-.logo-box {
-  display: flex;
-  align-items: center;
-  gap: 18px;
-}
-
-.school-logo {
-  width: 95px;
-  height: auto;
-  background: white;
-}
-
-.school-name h1 {
-  font-size: 22px;
-  margin: 0;
-  color: #1a4fa3;
-  font-weight: 800;
-}
-
-.school-name p {
-  margin: 0;
-  font-size: 24px;
-}
-
-body {
-  padding-top: 220px !important;
-}
-
-
-
-
-
